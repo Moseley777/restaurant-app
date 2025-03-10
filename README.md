@@ -1,6 +1,7 @@
 # resturant
 
-A new Flutter project.
+A restaurant app with provider to manage cart state
+
 
 ## Getting Started
 
